@@ -1,0 +1,13 @@
+#Output file
+./IOT_Project/Object/**
+
+./IOT_Project/EventRecorderStub.scvd
+
+./IOT_Project/JLinkLog.txt
+./IOT_Project/JLinkSettings.ini
+
+./IOT_Project/Templete.uvguix.Panda
+./IOT_Project/Templete.uvoptx
+
+
+
